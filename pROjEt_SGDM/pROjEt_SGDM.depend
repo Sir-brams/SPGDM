@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1763408822 source:c:\users\gnanz\documents\projet_sgdm\variable_sgdm.c
+	"Variable_defini.h"
+
+1763329602 c:\users\gnanz\documents\projet_sgdm\variable_defini.h
+	"structure_mesure.h"
+
+1763210202 c:\users\gnanz\documents\projet_sgdm\structure_mesure.h
+
+1763596284 source:c:\users\gnanz\documents\projet_sgdm\definition_fonction_sgdm.c
+	<stdio.h>
+	<stdlib.h>
+	"fonction_SGDM.h"
+	"Variable_defini.h"
+
+1763594624 c:\users\gnanz\documents\projet_sgdm\fonction_sgdm.h
+	"variable_defini.h"
+
+1763414165 source:c:\users\gnanz\documents\projet_sgdm\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fonction_SGDM.h"
+	"Variable_defini.h"
+
+1768891207 source:c:\users\gnanz\desktop\projet c sgdm\projet_sgdm\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fonction_SGDM.h"
+	"structure_mesure.h"
+
+1767962738 c:\users\gnanz\desktop\projet c sgdm\projet_sgdm\fonction_sgdm.h
+	"structure_mesure.h"
+
+1767892169 c:\users\gnanz\desktop\projet c sgdm\projet_sgdm\variable_defini.h
+	"structure_mesure.h"
+
+1763210202 c:\users\gnanz\desktop\projet c sgdm\projet_sgdm\structure_mesure.h
+
+1767889302 source:c:\users\gnanz\desktop\projet c sgdm\projet_sgdm\variable_sgdm.c
+	"Variable_defini.h"
+
+1768380771 source:c:\users\gnanz\desktop\projet c sgdm\projet_sgdm\definition_fonction_sgdm.c
+	<stdio.h>
+	<stdlib.h>
+	"fonction_SGDM.h"
+	"structure_mesure.h"
+
